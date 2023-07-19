@@ -1,3 +1,21 @@
 #batas_home {
     margin-top: 15%;
 }
+
+.bg-nav {
+    background-color: #27187E;
+}
+
+.text-primary-color {
+    color: #F1F2F6;
+}
+
+.btn-primary-color {
+    background-color: #27187E;
+    color: #F1F2F6;
+}
+
+.btn-primary-color:hover{
+    background-color: #13055c;
+    color: #F1F2F6;
+}
