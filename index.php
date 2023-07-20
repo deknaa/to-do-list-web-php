@@ -45,15 +45,15 @@
     <!-- End Of Hero Section -->
 
     <!-- Layanan Section -->
-    <section id="layanan">
+    <section id="layanan" class="text-center mt-5">
         <div class="container">
-            <div class="wrapper_layanan">
+            <div class="wrapper_layanan mb-4">
                 <h2>Apa Yang Bisa Anda Lakukan?</h2>
                 <p>Berikut adalah beberapa hal yang bisa anda lakukan pada website ini</p>
             </div>
             <div class="card_layanan">
-                <div class="row">
-                    <div class="col-md-4">
+                <div class="row mx-auto">
+                    <div class="col-md-4 mb-3">
                         <div class="card" style="width: 18rem;">
                             <img src="..." class="card-img-top" alt="...">
                             <div class="card-body">
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 mb-3">
                         <div class="card" style="width: 18rem;">
                             <img src="..." class="card-img-top" alt="...">
                             <div class="card-body">
@@ -69,7 +69,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 mb-3">
                         <div class="card" style="width: 18rem;">
                             <img src="..." class="card-img-top" alt="...">
                             <div class="card-body">
