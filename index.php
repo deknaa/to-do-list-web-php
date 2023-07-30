@@ -37,7 +37,7 @@
                 <div class="col-md-8 mt-5">
                     <h1>To Do List</h1>
                     <p>Buat kegiatan rencana harian anda dengan mudah dengan menggunakan website ini.</p>
-                    <a href="#" class="btn btn-primary-color shadow">Buat Rencana</a>
+                    <a href="system/login_system/login.php" class="btn btn-primary-color shadow">Buat Rencana</a>
                 </div>
             </div>
         </div>

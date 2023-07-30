@@ -34,13 +34,14 @@
                     <input type="text" class="form-control" id="username" aria-describedby="usernameHelp">
                 </div>
                 <div class="mb-3">
-                    <label for="pass" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="pass">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="password">
                 </div>
                 <div class="mb-3">
                     <p>Tidak memiliki akun? <a href="#">Register Sekarang</a></p>
                 </div>
                 <button type="submit" class="btn btn-primary">Login</button>
+                <a href="../../index.php" class="btn btn-danger">Kembali</a>
             </form>
         </div>
     </section>
